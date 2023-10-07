@@ -1,0 +1,3 @@
+## Title: Detecting Student Behavior in the Classroom with YOLOv8
+### Description:
+Teachers often face the issue of students not paying attention in class. However, detecting student behavior to prevent distractions can be helpful. Previous research has used YOLOv5 to detect student behavior in the classroom, but YOLOv8 was used in this study as it is faster and more efficient. Roboflow was used to annotate the images and the data was split into Train (70%), Valid (10%), and Test (20%). Initially, only 10 images were used for training, but more images will be added later to improve accuracy. I was able to detect student behavior in a video successfully.
