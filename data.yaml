@@ -1,0 +1,15 @@
+#path: '/content/drive/MyDrive/contest'
+
+train: ../contest/train/images
+val: ../contest/valid/images
+test: ../contest/test/images
+
+nc: 5
+names: ['absent-minded', 'eating', 'gossiping', 'group-studying', 'self-studying']
+
+# roboflow:
+#   workspace: ahmed-dbj2k
+#   project: student_behaviour_detection_
+#   version: 1
+#   license: CC BY 4.0
+#   url: https://universe.roboflow.com/ahmed-dbj2k/student_behaviour_detection_/dataset/1
